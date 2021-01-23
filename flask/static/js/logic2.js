@@ -44,7 +44,7 @@ function initMap(){
                     fillOpacity:0.5,
                     color: '#07575b',
                     fillColor: '07575b',
-                    radius: 200,
+                    radius: 400,
                 }), 
             );
                 // .bindPopup('<h5>' + cityList[i].city + '</h5>'); 

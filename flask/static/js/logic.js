@@ -37,12 +37,12 @@ function initMap() {
 
         for (var i = 0; i<cityList.length; i++) {
             cityMarkers.push(
-                L.marker([cityList[i].latitude, cityList[i].longitude], {
+                L.circle([cityList[i].latitude, cityList[i].longitude], {
                     stroke: true,
                     fillOpacity:0.5,
                     color: '#07575b',
                     fillColor: '#07575b',
-                    radius: 200,
+                    radius: 400,
 
                 }), 
             );
