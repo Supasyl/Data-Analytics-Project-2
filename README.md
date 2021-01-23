@@ -13,4 +13,3 @@
 ![Slide11](project_info/Presentation_png_files/Slide11.png)
 ![Slide12](project_info/Presentation_png_files/Slide12.png)
 ![Slide13](project_info/Presentation_png_files/Slide13.png)
-![Slide14](project_info/Presentation_png_files/Slide14.png)
