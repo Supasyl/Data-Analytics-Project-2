@@ -1,7 +1,6 @@
 # Data-Analytics-Project-2
-
-(Use the flask app to run the website. You need the API keys listed in the config.js file to retrieve the data.)
 ---
+(Use the flask app to run the website. You need the API keys listed in the config.js file to retrieve the data.)
 ![Slide1](project_info/Presentation_png_files/Slide1.png)
 ![Slide2](project_info/Presentation_png_files/Slide2.png)
 ![Slide3](project_info/Presentation_png_files/Slide3.png)
