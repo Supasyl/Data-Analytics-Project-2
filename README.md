@@ -3,12 +3,12 @@
 ---
 (Use the flask app to run the website. You need the API keys listed in the config.js file to retrieve the data.)
 Current UV Index
-![Current UV Index}(Website_screenshots/Current_UV_Index_1.png)
-![Current UV Index}(Website_screenshots/Current_UV_Index_2.png)
+![Current UV Index](Website_screenshots/Current_UV_Index_1.png)
+![Current UV Index](Website_screenshots/Current_UV_Index_2.png)
 Historical UV Index
-![Historical UV Index}(Website_screenshots/Historical_UV_Index.png)
+![Historical UV Index](Website_screenshots/Historical_UV_Index.png)
 About our team
-![About}(Website_screenshots/About.png)
+![About](Website_screenshots/About.png)
 
 ---
 # Presentation
